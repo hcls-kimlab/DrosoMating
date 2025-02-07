@@ -3,7 +3,7 @@
 This tool analyzes fruit flies mating behavior from video recordings and generates a CSV file with metrics.
 
 ## Download
-You can download the latest executable file from the releases section.
+You can download the latest executable file from the releases section. Opencv is needed.
 [ff-choose.exe](https://github.com/hcls-kimlab/DrosoMating/blob/win-ff/releases/ff-choose.exe)
 
 ## Usage
